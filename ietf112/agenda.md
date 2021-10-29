@@ -18,7 +18,7 @@
 
 ### Drafts (50 minutes)
 * Overview of [draft-thomson-http-oblivious](https://datatracker.ietf.org/doc/draft-thomson-ohai-ohttp/) (Chris Wood) - 20 minutes
-* Overview of [raft-thomson-http-binary-message]() (Martin Thomson) - 10 minutes
+* Overview of [draft-thomson-http-binary-message](https://datatracker.ietf.org/doc/draft-thomson-http-binary-message/) (Martin Thomson) - 10 minutes
 * Adoption call (Chairs) - 5 minutes
 * Issue discussion (Martin Thomson) - 15 minutes
 
