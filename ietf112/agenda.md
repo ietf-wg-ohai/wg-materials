@@ -16,11 +16,12 @@
 * Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html) 
 * Agenda revision
 
-### Draft (50 minutes)
-https://datatracker.ietf.org/doc/draft-thomson-ohai-ohttp/
-* Overview of proposal (Chris Wood) - 15m
-* Adoption call (Chairs) - 5m 
-* HTTP binary encoding disposition (Chairs/Martin) - 5m
-* Issue discussion (Martin Thomson) - 25m
+### Drafts (50 minutes)
+* Overview of [draft-thomson-http-oblivious](https://datatracker.ietf.org/doc/draft-thomson-ohai-ohttp/) (Chris Wood) - 20 minutes
+* Overview of [raft-thomson-http-binary-message]() (Martin Thomson) - 10 minutes
+* Adoption call (Chairs) - 5 minutes
+* Issue discussion (Martin Thomson) - 15 minutes
 
-### AOB (5 minutes)
+### Next Steps (5 minutes)
+* AOB
+* Virtual interims?
