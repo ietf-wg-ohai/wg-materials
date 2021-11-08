@@ -1,14 +1,6 @@
 # OHAI Working Group Agenda - IETF 112
 
-## Agenda
-
-## Administrivia (5 minutes)
-* Welcome
-* Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html) 
-* Agenda revision
-
-## Drafts (50 minutes)
-### Overview of [draft-thomson-http-oblivious](https://datatracker.ietf.org/doc/draft-thomson-ohai-ohttp/) (Chris Wood) - 20 minutes
+### Overview of [draft-thomson-http-oblivious](https://datatracker.ietf.org/doc/draft-thomson-ohai-ohttp/) (Chris Wood)
 
 **Chris Wood**: Cases where interacting with a server reveals sensitive information. Interaction with server also reveals identity. Examples: DNS queries, Safe Browsing, telemetry data uploads
 
@@ -38,7 +30,7 @@
 
 **Richard**: If there are concrete proposals, please propose to the list, but I think it's clear from the charter that this is not a blocker for adoption.
 
-### Overview of [draft-thomson-http-binary-message](https://datatracker.ietf.org/doc/draft-thomson-http-binary-message/) (Martin Thomson) - 10 minutes
+### Overview of [draft-thomson-http-binary-message](https://datatracker.ietf.org/doc/draft-thomson-http-binary-message/) (Martin Thomson)
 
 **Martin Thomson**: At the moment, OHTTP uses binary HTTP, filed an issue for Tommy's question about carrying any payload. Everything is included in a binary encoding which is unambiguous and easy to parse.
 
@@ -62,7 +54,7 @@
 
 **Richard**: Even if we keep this group independent of HTTP bits, we can still take this work to them and have that dependency.
 
-### Adoption call (Chairs) - 5 minutes
+### Adoption call (Chairs)
 
 **Richard**: Raise hand for good starting point. Click do not raise hand if you have concerns and believe it is not a good starting point.
 
@@ -72,7 +64,7 @@
 
 **Richard**: Will confirm list, sounds like we've got pretty good consensus to adopt this and continue work as a working group item.
 
-### Issue discussion (Martin Thomson) - 15 minutes
+### Issue discussion (Martin Thomson)
 
 [Issue List](https://github.com/unicorn-wg/oblivious-http/issues/)
 
@@ -116,10 +108,7 @@
 
 **Chris**: For additional context, over in DTN we're reusing HPKE for encrypting data that fits inside of an HTTP request from clients to these servers. It's been discussed that we might want to use OHAI/OHTTP for sending those messages, but those need to send some parts in the clear that's still authenticated. Could use reuse this for that. I do tend to agree with the pushback that we don't want to add more things and additional channels for the proxy.
 
-## Next Steps (5 minutes)
-### AOB
-
-### Virtual interims?
+### Virtual interims
 
 **Richard**: Good meeting so far, clear adoption call which we'll confirm on the list. As we're focused on burning down issues, do we want to schedule some virtual interims scheduled to go through issues and keep up the pace? Thoughts?
 
