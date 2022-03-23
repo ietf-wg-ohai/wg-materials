@@ -17,7 +17,7 @@
 * Agenda revision
 
 ### Current work (60 minutes)
-* [Issue discussion](https://github.com/ietf-wg-ohai/oblivious-http/issues) (Martin Thomson)
+* [Issue discussion](https://github.com/ietf-wg-ohai/oblivious-http/issues) (Martin Thomson) - [Slides](https://ietf-wg-hai.github.io/wg-materials/ietf113/ohttp.pdf)
 
 ### New work (30 minutes)
 * [Oblivious Proxy Feedback](https://datatracker.ietf.org/doc/html/draft-rdb-ohai-feedback-to-proxy) (Tirumal Reddy) - 10 mins
