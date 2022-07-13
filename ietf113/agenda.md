@@ -19,11 +19,11 @@
 ### Current work (60 minutes)
 * [Issue discussion](https://github.com/ietf-wg-ohai/oblivious-http/issues) (Martin Thomson)
 
-### New work (30 minutes)
-* [Oblivious Proxy Feedback](https://datatracker.ietf.org/doc/html/draft-rdb-ohai-feedback-to-proxy) (Tirumal Reddy) - 10 mins
-* [Distribution of Oblivious Configurations via Service Binding Records](https://datatracker.ietf.org/doc/html/draft-pauly-ohai-svcb-config) (Tommy Pauly) - 20 mins
+### New work (40 minutes)
+* [Oblivious Proxy Feedback](https://datatracker.ietf.org/doc/html/draft-rdb-ohai-feedback-to-proxy) (Tirumal Reddy) - 10+5 mins
+* [Distribution of Oblivious Configurations via Service Binding Records](https://datatracker.ietf.org/doc/html/draft-pauly-ohai-svcb-config) (Tommy Pauly) - 20+5 mins
 
-### Buffer time (20 minutes)
+### Buffer time (10 minutes)
 
 ### AOB (5 minutes)
 
