@@ -22,7 +22,7 @@
 
 ### New work (25 minutes)
 * [Distribution of Oblivious Configurations via Service Binding Records](https://datatracker.ietf.org/doc/html/draft-pauly-ohai-svcb-config) (Tommy Pauly) - 10 mins
-* [Oblivious Proxy Feedback](https://datatracker.ietf.org/doc/html/draft-rdb-ohai-feedback-to-proxy) (Tirumal Reddy) - 10 mins
+* [Oblivious Proxy Feedback](https://datatracker.ietf.org/doc/html/draft-rdb-ohai-feedback-to-proxy) (Dan Wing) - 10 mins
 * [Key Consistency for Oblivious HTTP by Double-Checking](https://datatracker.ietf.org/doc/draft-schwartz-ohai-consistency-doublecheck/) (Ben Schwartz) - 5 mins
 
 
