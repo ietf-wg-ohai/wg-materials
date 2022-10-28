@@ -22,8 +22,9 @@
 ### Current Work (25 minutes)
 * [Distribution of Oblivious Configurations via Service Binding Records](https://datatracker.ietf.org/doc/draft-ietf-ohai-svcb-config/) (Tommy Pauly) - 25 mins
 
-### Proposed work (30 minutes)
+### Proposed work (45 minutes)
 * [Oblivious Relay Feedback](https://datatracker.ietf.org/doc/draft-rdb-ohai-feedback-to-proxy/) (Tiru Reddy) - 10 mins
 * [An Unreliable Oblivious HTTP Extension](https://datatracker.ietf.org/doc/draft-wood-ohai-unreliable-ohttp/) (Ralph Giles, remote) - 20 mins
+* [DoubleCheck](https://datatracker.ietf.org/doc/draft-schwartz-ohai-consistency-doublecheck/) (Ben Schwartz) - 15 mins
 
-### Balance of time (25 minutes)
+### Balance of time (10 minutes)
