@@ -17,4 +17,6 @@
 * Agenda revision
 
 ### Draft Updates (50 mins)
-* [Chunked OHTTP](https://datatracker.ietf.org/doc/draft-ohai-chunked-ohttp/) (?) - ? mins 
+* [Chunked OHTTP](https://datatracker.ietf.org/doc/draft-ohai-chunked-ohttp/) (Tommy Pauly) - 30 mins 
+* [DAP use-case for Unreliable Oblivious HTTP Extension](https://datatracker.ietf.org/doc/draft-wood-ohai-unreliable-ohttp/) (Linmao Song) - 20 mins 
+
